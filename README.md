@@ -7,9 +7,11 @@
   <li> 🎉 Atualmente, estou na última fase da faculdade e estou trabalhando no projeto integrador</li>
   <li> 🤝 Tenho vários projetos pessoais para mostrar aqui!</li>
 </ul>
-
+  
 <div>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=LennyBla&show_icons=true&theme=material-palenight"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LennyBla&layout=compact&langs_count=168&theme=material-palenight"/>
+<a href="https://github.com/gabrielamarqs">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LennyBla&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LennyBla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
 
