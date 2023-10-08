@@ -1,4 +1,4 @@
-### Olá, eu sou a Thais Florentin!
+### Olá, eu sou a Thais Florentin, Bem-vindo ao meu GITHUB!
 
 <ul>
   <li> 📝 Estudante de Análise e Desenvolvimento de Sistemas</li>
@@ -27,6 +27,5 @@
   <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
-
 
 #  
