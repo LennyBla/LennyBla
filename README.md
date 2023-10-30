@@ -9,8 +9,8 @@
 </ul>
 
 <div>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=LennyBla&show_icons=true&theme=material-palenight"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LennyBla&layout=compact&langs_count=168&theme=material-palenight"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=LennyBla&show_icons=true&theme=material-palenight"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LennyBla&layout=compact&langs_count=168&theme=material-palenight"/>
 </div>
 
 #
