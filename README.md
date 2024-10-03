@@ -8,10 +8,11 @@
   <li> 🤝 Tenho vários projetos pessoais para mostrar aqui!</li>
 </ul>
 
-<div>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=LennyBla&show_icons=true&theme=material-palenight"/>
-  <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LennyBla&layout=compact&langs_count=168&theme=material-palenight"/>
-</div>
+#
+
+![](https://github-readme-stats.vercel.app/api?username=LennyBla&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LennyBla&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LennyBla&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 #
 <!--
