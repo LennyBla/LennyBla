@@ -2,8 +2,8 @@
 
 <ul>
   <li> 📝 Estudante de Análise e Desenvolvimento de Sistemas</li>
-  <li> ✨ Meus focos de estudo atualmente são UI/UX, Front-End e Banco de Dados</li>
-  <li> 👩‍💻 Também estou estudando: React Native, Python e Prototipação</li>
+  <li> ✨ Meus focos de estudo atualmente são UI/UX e Front-End /li>
+  <li> 👩‍💻 Também estou estudando: React Native, React TS, Prototipação e C#</li>
   <li> 🎉 Atualmente, estou na última fase da faculdade e estou trabalhando no projeto integrador</li>
   <li> 🤝 Tenho vários projetos pessoais para mostrar aqui!</li>
 </ul>
