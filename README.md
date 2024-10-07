@@ -10,20 +10,20 @@
 
 #
 
-![](https://github-readme-stats.vercel.app/api?username=LennyBla&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LennyBla&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LennyBla&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=LennyBla&theme=radical&hide_border=true&include_all_commits=false&count_private=false&card_width=400" alt="GitHub Stats" style="width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LennyBla&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 48%;" />
+</div>
 
 #
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=LennyBla&theme=radical&hide_border=true)<br/>
+
 <!--
 ### Stacks já vistas/estudando:
 <div style="display: flex; justify-content: space-between;">
-  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
   <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 </div>
